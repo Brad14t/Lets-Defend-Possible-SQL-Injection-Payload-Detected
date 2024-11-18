@@ -81,6 +81,39 @@ Obviously this is a SQL injection being it is being performed in a web applicati
 
 Next question is to find if this was planned. I checked the Web Server 1001 processes, network,terminal, and browser history. Also the Email security and didnt find anything confirming it was planned.
 
+Next question is to show the direction of the traffic. This IP is from outside the company/ buisness so it is the Internet -> Company Network
+
+<img width="501" alt="Screenshot 2024-11-18 112739" src="https://github.com/user-attachments/assets/63e090ed-0755-4400-9c82-6f3833b5667a">
+
+Next is if it was successful.
+
+<img width="532" alt="Screenshot 2024-11-18 112927" src="https://github.com/user-attachments/assets/af0f8e89-9936-420d-947d-4026d08a5a7d">
+
+<img width="488" alt="Screenshot 2024-11-18 113153" src="https://github.com/user-attachments/assets/06912f44-2e0d-4d68-a3bd-d6be1c1b1131">
+
+As stated early from the Response status code being 500, this attack wasn't successful.
+
+Next step is to add artifacts, meaning anyhting that relates to the attack.
+
+<img width="495" alt="Screenshot 2024-11-18 113657" src="https://github.com/user-attachments/assets/a174dafc-e9e8-4e64-a5e2-e544a5a40d96">
+
+Next question is asking if this incident needs further escilation. Quick answer is no.
+
+<img width="492" alt="Screenshot 2024-11-18 113712" src="https://github.com/user-attachments/assets/29bcffc8-942d-43ab-92cb-1829950dd391">
+
+After completing that I add a quick summary and notes of what I just performed.
+
+<img width="545" alt="Screenshot 2024-11-18 114420" src="https://github.com/user-attachments/assets/cb9fca79-140f-4c0a-8086-c14b9188ba39">
+
+Now this playbook and incident are done.
+
+<img width="540" alt="Screenshot 2024-11-18 114500" src="https://github.com/user-attachments/assets/21cd2c23-036e-4702-a41c-4aa631dd55a9">
+
+
+
+
+
+
 
 
 
