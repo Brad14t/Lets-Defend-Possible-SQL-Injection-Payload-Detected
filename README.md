@@ -1,6 +1,8 @@
-# LetsDefend: Possible-SQL-Injection-Payload-Detected
+# LetsDefend: Possible SQL Injection Payload Detected
 
-This will be my walkthrough of completing an investigation of a SQL injection, to further my Blue team knowledge. 
+* **Incident Response:**
+
+This will be my walkthrough of completing an investigation of a possible SQL injection, to further my Blue team knowledge. 
 
 First thing to do is to select: `">>"` to create a case from the information given.
 
@@ -109,7 +111,11 @@ Now this playbook and incident are done.
 
 <img width="540" alt="Screenshot 2024-11-18 114500" src="https://github.com/user-attachments/assets/21cd2c23-036e-4702-a41c-4aa631dd55a9">
 
+The case is now closed and the investigation can be seen in Case Managment.
 
+<img width="333" alt="Screenshot 2024-11-18 144939" src="https://github.com/user-attachments/assets/d625c781-a92e-40ce-86b2-d8ae363d9a13">
+
+<img width="675" alt="Screenshot 2024-11-18 144947" src="https://github.com/user-attachments/assets/0aba97a1-d932-4e62-a63f-a4c3adb24c3e">
 
 
 
